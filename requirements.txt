@@ -1,0 +1,8 @@
+Package            Version
+------------------ -------
+pip                23.0.1
+PySide6            6.6.0
+PySide6-Addons     6.6.0
+PySide6-Essentials 6.6.0
+setuptools         66.1.1
+shiboken6          6.6.0

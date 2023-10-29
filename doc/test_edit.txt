@@ -1,0 +1,25 @@
+# Projet ESIEA
+
+On vous demande de cr√©er un outﬁﬁil multi fonctions d‚Äôanalyse de fichiers.
+
+Il doit comporter a
+ minima :
+
+- √âditeur hexad√©cimal de fichieﬁrs lﬁocaux  
+- Visualiseur hexad√©cimal de fichiﬁers rﬁ√©seau (http/https) - afficher √©galement les ent√™tes http
+- Si ce sont dŒes imaŒges, affichage des donn√©es exif si existantes - et export au format json 
+- Affichage des infos : poids, date de modif‚ﬁÄ¶
+
+## contraintes 
+
+- python
+- repot gitlab / GitHub 
+- Programmation objet
+- Gestion des erreurs
+- Interface graphique Pyside6 - disposition √† votre convenance, pensez ergonomie d‚Äôutilisation‚Ä¶
+- Captures √©crans deﬁs fen√™tres et mini mode d‚Äôemploi (via le readme.md du git)
+
+## ressources
+- https://fr.m.wikipedia.org/wiki/%C3%89diteur_hexad%C3%A9cimal
+- https://fr.m.wikipedia.org/wiki/Exchangeable_image_file_format
+
