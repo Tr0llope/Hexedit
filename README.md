@@ -11,6 +11,14 @@ On y retrouve deux boutons:
 - VIsualize, qui permet de visualiser un fichier distant
 
 ### Mode Edition
-![browser](doc/browser.png)
+Dans un premier temps, il faut sélectionner le fichier à éditer via le navigateur de fichier qui se présente de la manière suivante:  
+![browser](doc/browser.png)  
 
-## Mode Visualisation
+Une fois le fichier sélectionné, la fenêtre d'édition s'ouvre:
+![editor](doc/editor.png)  
+On y retrouve les informations du fichier, ainsi que son contenu en hexadécimal.
+Une fois les modifications effectuées, il faut cliquer sur le bouton `Save` pour enregistrer les modifications.  
+Si le fichier est modifié, un message de confirmation s'affiche en bas de la fenêtre d'édition. 
+
+### Mode Visualisation
+![url](doc/url.png)
