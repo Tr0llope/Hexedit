@@ -31,9 +31,10 @@ class VisualizerWindow(QMainWindow):
         #edit field
         self.text_edit = QTextEdit()
         self.central_widget.layout().addWidget(self.text_edit)
+
+        #urls de test
         #https://github.com/Tr0llope/Pile_RPL/blob/master/CalcUI.java
         #https://github.com/ianare/exif-samples/blob/master/jpg/Canon_40D.jpg
-        #Error while reading Exif data: cannot identify image file <_io.BytesIO object at 0x7fe709223c90>
 
 
         response = requests.get(self.url)

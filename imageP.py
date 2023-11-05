@@ -4,6 +4,7 @@ import json, requests
 from io import BytesIO
 from PIL import Image, ExifTags
 
+# Contient les fonctions d'identification des images et de récupération des données exif en local et à distance
 class imageProcessing():
     def isImg(self,file_path):
         try:
