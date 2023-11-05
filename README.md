@@ -48,3 +48,7 @@ Ici, vous devez renseigner l'url du fichier à visualiser.
 Si le fichier est valide, il s'affiche dans la fenêtre de visualisation:  
 ![visu](doc/visu.png)  
 Vous remarquerez que l'apparence de la fenêtre de visualisation est la même que celle de la fenêtre d'édition. Seulement, aucune modification n'est permise.
+
+## Améliorations
+Un problème persiste avec la visualisation d'images, je pense que c'est dû au format des données qui sont lues.  
+Le mode édition considère que l'utilisateur se comporte normalement, c'est à dire qu'il ne modifie que la partie hexadécimale.
