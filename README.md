@@ -2,7 +2,7 @@
 Ce programme est un éditeur hexadécimal de fichiers. Il permet de modifier toute sorte de fichiers grâce à un interface graphique réalisé avec la librairie PySide6.
 
 ## Installation:
-Une fois le projet cloner, il faut créer un environnement virtuel python3 et installer les dépendances du projet.
+Une fois le projet cloné, il faut créer un environnement virtuel python3 et installer les dépendances du projet.
 ```
 python3 -m venv venv
 source venv/bin/activate
@@ -27,8 +27,9 @@ Lors de l'exécution, la fenêtre suivante s'ouvre:
 ![menu](doc/menu.png)  
 On y retrouve deux boutons:  
 - Edit, qui permet d'éditer un fichier local
-- VIsualize, qui permet de visualiser un fichier distant
-Dans le cas où le fichier est une image, le programme affiche ls données exif dans la fenêtre de visualisation et les exporte au format json, si elles existent.
+- Visualize, qui permet de visualiser un fichier distant
+
+Dans le cas où le fichier est une image, le programme affiche les données exif dans la fenêtre de visualisation et les exporte au format json, si elles existent.
 
 ### Mode Edition
 Dans un premier temps, il faut sélectionner le fichier à éditer via le navigateur de fichier qui se présente de la manière suivante:  
@@ -42,7 +43,7 @@ Si le fichier est modifié, un message de confirmation s'affiche en bas de la fe
 Vous pouvez terminer l'édition en fermant la fenêtre.  
 
 ### Mode Visualisation
-Ici, vous devez rensigner l'url du fichier à visualiser.  
+Ici, vous devez renseigner l'url du fichier à visualiser.  
 ![url](doc/url.png)  
 Si le fichier est valide, il s'affiche dans la fenêtre de visualisation:  
 ![visu](doc/visu.png)  
