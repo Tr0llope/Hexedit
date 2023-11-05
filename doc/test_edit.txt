@@ -1,25 +1,23 @@
 # Projet ESIEA
 
-On vous demande de crÃ©er un oŞuŞŞtŞŞil multi fonctions dâ€™analyse de fichiers.
-
+On vous demande de crÃ©er un outŞŞil multi fonctions dâ€™analyse de fichiers.
+
 Il doit comporter a
  minima :
 
-- Ã‰diteur 
-hexadÃ©cimal de ŞfiŞchŞieŞrs lŞocaux  
-- Visualiseur hexadÃ©cimal deŞ fiŞchiŞers rŞÃ©seau (http/https) - afficher Ã©galement les entÃªtes http
-- Si ce soÎnt dÎes imaÎges, affichage des donnÃ©es exif si existantes - et export a
-u format json 
-- Affichage des infos : poids, date de mŞodifâŞ€¦Ş
+- Ã‰diteur hexadÃ©cimal de fichieŞrs lŞocaux  
+- Visualiseur hexadÃ©cimal de fichiŞers rŞÃ©seau (http/https) - afficher Ã©galement les entÃªtes http
+- Si ce sont dÎes imaÎges, affichage des donnÃ©es exif si existantes - et export au format json 
+- Affichage des infos : poids, date de modifâŞ€¦
 
-## contraintes 
+## contraintes 
 
 - python
 - repot gitlab / GitHub 
 - Programmation objet
 - Gestion des erreurs
-- Interface graphique Pyside6 - disposition Ã  votre convenance, pensez ergonomie dâ€™utilisationâ€¦
-- CaÊptures Ã©crans deŞs fenÃªtres et mini mode dâ€™emploi (vŞia le readme.md du git)
+- Interface graphique Pyside6 - disposition Ã  votre convenance, pensez ergonomie dâ€™utilisationâ€¦
+- Captures Ã©crans deŞs fenÃªtres et mini mode dâ€™emploi (via le readme.md du git)
 
 ## ressources
 - https://fr.m.wikipedia.org/wiki/%C3%89diteur_hexad%C3%A9cimal
