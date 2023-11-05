@@ -1,6 +1,5 @@
 
-import imghdr
-import json, requests
+import imghdr, json, requests
 from io import BytesIO
 from PIL import Image, ExifTags
 
